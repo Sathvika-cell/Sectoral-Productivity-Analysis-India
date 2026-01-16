@@ -1,0 +1,183 @@
+sector,event_time,sector_output_growth
+Basic metals,-3,
+Basic metals,-2,0.1380665477899141
+Basic metals,-1,0.164440159675669
+Basic metals,0,0.0171269647928005
+Basic metals,1,0.0211582255073459
+Basic metals,2,0.0843909515980732
+Basic metals,3,0.0835626904488604
+Chemicals and chemical products,-3,-0.6619732132551501
+Chemicals and chemical products,-2,0.0889896170017356
+Chemicals and chemical products,-1,0.0699585886069096
+Chemicals and chemical products,0,-0.0291365940866548
+Chemicals and chemical products,1,0.0483759997402355
+Chemicals and chemical products,2,0.0196889050869222
+Chemicals and chemical products,3,-0.0032546814735425
+"Coke, refined petroleum products and nuclear fuel",-3,-0.2353942478977222
+"Coke, refined petroleum products and nuclear fuel",-2,0.1126894580399513
+"Coke, refined petroleum products and nuclear fuel",-1,0.0603111258109416
+"Coke, refined petroleum products and nuclear fuel",0,0.0312782699547558
+"Coke, refined petroleum products and nuclear fuel",1,-0.0130507561954908
+"Coke, refined petroleum products and nuclear fuel",2,-0.0024660924951938
+"Coke, refined petroleum products and nuclear fuel",3,0.0347790814857376
+Electrical machinery and apparatus n.e.c.,-3,-0.1551286750152352
+Electrical machinery and apparatus n.e.c.,-2,0.1193039484970901
+Electrical machinery and apparatus n.e.c.,-1,1.0418114007525991
+Electrical machinery and apparatus n.e.c.,0,0.3528068828142361
+Electrical machinery and apparatus n.e.c.,1,-0.1448994574526958
+Electrical machinery and apparatus n.e.c.,2,0.0277049825468846
+Electrical machinery and apparatus n.e.c.,3,-0.2515565370494519
+Electricity,-3,-1.255475202325087
+Electricity,-2,0.0697530387603491
+Electricity,-1,0.061875403718087
+Electricity,0,0.0271286673882524
+Electricity,1,0.0590490288528
+Electricity,2,0.0535842461341067
+Electricity,3,0.0787040193879393
+"Fabricated metal products, except machinery and equipment",-3,-0.334283911103534
+"Fabricated metal products, except machinery and equipment",-2,0.1821715305390787
+"Fabricated metal products, except machinery and equipment",-1,0.0758212181022832
+"Fabricated metal products, except machinery and equipment",0,0.0013898542890542
+"Fabricated metal products, except machinery and equipment",1,0.0965720096247464
+"Fabricated metal products, except machinery and equipment",2,0.1420073498193028
+"Fabricated metal products, except machinery and equipment",3,0.106290061614251
+Food products and beverages,-3,-0.5376705336875833
+Food products and beverages,-2,0.1475667107409055
+Food products and beverages,-1,0.1171052992698866
+Food products and beverages,0,-0.0855948153017003
+Food products and beverages,1,-0.0141318826378702
+Food products and beverages,2,0.0680436070955172
+Food products and beverages,3,0.14258753253955
+Furniture manufacturing n.e.c.,-3,-0.3775400824026933
+Furniture manufacturing n.e.c.,-2,-0.0394961383426561
+Furniture manufacturing n.e.c.,-1,0.1722742352630071
+Furniture manufacturing n.e.c.,0,0.0712510583705432
+Furniture manufacturing n.e.c.,1,0.0691332125158812
+Furniture manufacturing n.e.c.,2,-0.0782978871654451
+Furniture manufacturing n.e.c.,3,-0.0185852383033386
+General Index,-3,-0.1913354441179846
+General Index,-2,0.1212556160022764
+General Index,-1,0.1447851231945236
+General Index,0,0.0243999556940606
+General Index,1,0.0516720105443209
+General Index,2,0.0791870818821012
+General Index,3,0.0285903928515249
+"Luggage, handbags, saddlery, harness and footwear tanning and dressing of leather products",-3,-0.6388965908101971
+"Luggage, handbags, saddlery, harness and footwear tanning and dressing of leather products",-2,0.1346308979579396
+"Luggage, handbags, saddlery, harness and footwear tanning and dressing of leather products",-1,0.056089466651044
+"Luggage, handbags, saddlery, harness and footwear tanning and dressing of leather products",0,-0.0522506903438779
+"Luggage, handbags, saddlery, harness and footwear tanning and dressing of leather products",1,0.0133208439756602
+"Luggage, handbags, saddlery, harness and footwear tanning and dressing of leather products",2,0.0772760513765664
+"Luggage, handbags, saddlery, harness and footwear tanning and dressing of leather products",3,0.0360863897744208
+Machinery and equipment n.e.c.,-3,-0.0078989352245342
+Machinery and equipment n.e.c.,-2,0.1795421228029292
+Machinery and equipment n.e.c.,-1,0.203738459304521
+Machinery and equipment n.e.c.,0,-0.0786922685756641
+Machinery and equipment n.e.c.,1,0.1466034741918749
+Machinery and equipment n.e.c.,2,0.2580816026754906
+Machinery and equipment n.e.c.,3,-0.0603076607390393
+Manufacturing,-3,-0.7348753826637386
+Manufacturing,-2,0.1394071157436682
+Manufacturing,-1,0.1686906966362906
+Manufacturing,0,0.024351318432128
+Manufacturing,1,0.0476129280596193
+Manufacturing,2,0.0855120100618878
+Manufacturing,3,0.029719036072775
+"Medical, precision and optical instruments, watches and clocks",-3,-0.6530455763914187
+"Medical, precision and optical instruments, watches and clocks",-2,0.0939751934327004
+"Medical, precision and optical instruments, watches and clocks",-1,0.0610735556062422
+"Medical, precision and optical instruments, watches and clocks",0,0.072696358188165
+"Medical, precision and optical instruments, watches and clocks",1,-0.1716937583217852
+"Medical, precision and optical instruments, watches and clocks",2,0.0661477311153335
+"Medical, precision and optical instruments, watches and clocks",3,0.1030387128966685
+Mining and Quarrying,-3,-0.1351185976460902
+Mining and Quarrying,-2,0.049581174610136
+Mining and Quarrying,-1,0.0454623740767576
+Mining and Quarrying,0,0.0254511324295245
+Mining and Quarrying,1,0.0759013618307626
+Mining and Quarrying,2,0.0508916072963891
+Mining and Quarrying,3,-0.0192684188658764
+"Motor vehicles, trailers and semi-trailers",-3,-0.1309167148432051
+"Motor vehicles, trailers and semi-trailers",-2,0.2258646414285712
+"Motor vehicles, trailers and semi-trailers",-1,0.0913497785882277
+"Motor vehicles, trailers and semi-trailers",0,-0.0913497785882277
+"Motor vehicles, trailers and semi-trailers",1,0.2606906239094613
+"Motor vehicles, trailers and semi-trailers",2,0.2643808699607177
+"Motor vehicles, trailers and semi-trailers",3,0.1029572873103727
+"Office, accounting and computing machinery",-3,-0.5216409800619335
+"Office, accounting and computing machinery",-2,0.067845161043051
+"Office, accounting and computing machinery",-1,0.058086885856083
+"Office, accounting and computing machinery",0,-0.1021294950763795
+"Office, accounting and computing machinery",1,0.0369435151916839
+"Office, accounting and computing machinery",2,-0.0538873295645974
+"Office, accounting and computing machinery",3,0.0162715454400306
+Other non-metallic mineral products,-3,-0.1725335504277918
+Other non-metallic mineral products,-2,0.1030387128966685
+Other non-metallic mineral products,-1,0.0888228454707649
+Other non-metallic mineral products,0,0.0323945463713792
+Other non-metallic mineral products,1,0.0749548018857089
+Other non-metallic mineral products,2,0.0404367759039301
+Other non-metallic mineral products,3,0.0464599681973982
+Other transport equipment,-3,-0.3375867188119823
+Other transport equipment,-2,0.1420595384441867
+Other transport equipment,-1,-0.0297845613575278
+Other transport equipment,0,0.0380273955892391
+Other transport equipment,1,0.2444083809472363
+Other transport equipment,2,0.2081871399119954
+Other transport equipment,3,0.1125486672931277
+Paper and paper products,-3,-0.7962945245941837
+Paper and paper products,-2,0.043264915964432
+Paper and paper products,-1,0.0143115143932561
+Paper and paper products,0,0.046842908760075
+Paper and paper products,1,0.0259320260933817
+Paper and paper products,2,0.0816294554914636
+Paper and paper products,3,0.0490075791066946
+"Publishing, printing and reproduction of recorded media",-3,-0.1987499265642958
+"Publishing, printing and reproduction of recorded media",-2,0.0769936149565513
+"Publishing, printing and reproduction of recorded media",-1,0.1325129588874478
+"Publishing, printing and reproduction of recorded media",0,0.0155700243773857
+"Publishing, printing and reproduction of recorded media",1,-0.0622938512837469
+"Publishing, printing and reproduction of recorded media",2,0.1062569747048636
+"Publishing, printing and reproduction of recorded media",3,0.2590502597774531
+"Radio, TV and communication equipment and apparatus",-3,-0.399743801124556
+"Radio, TV and communication equipment and apparatus",-2,0.9358216569542908
+"Radio, TV and communication equipment and apparatus",-1,0.6583412602814152
+"Radio, TV and communication equipment and apparatus",0,0.1846084686700191
+"Radio, TV and communication equipment and apparatus",1,0.1074087811912036
+"Radio, TV and communication equipment and apparatus",2,0.1191690753049234
+"Radio, TV and communication equipment and apparatus",3,0.0418965678097666
+Rubber and plastics products,-3,-2.190274589075357
+Rubber and plastics products,-2,0.0629789797721338
+Rubber and plastics products,-1,0.1262937253242917
+Rubber and plastics products,0,0.0495969411393719
+Rubber and plastics products,1,0.1603426500751794
+Rubber and plastics products,2,0.101050164156704
+Rubber and plastics products,3,-0.0032450001433268
+Textiles,-3,-0.5354506710713798
+Textiles,-2,0.075557916387182
+Textiles,-1,0.0646455359592259
+Textiles,0,-0.0367838772674149
+Textiles,1,0.059007014052125
+Textiles,2,0.0645875780190357
+Textiles,3,-0.0140795212061872
+Tobacco products,-3,-0.3407065407600012
+Tobacco products,-2,0.0186371259987438
+Tobacco products,-1,-0.0447168387817962
+Tobacco products,0,0.0427713128763054
+Tobacco products,1,-0.0068393036502421
+Tobacco products,2,0.0203791623366527
+Tobacco products,3,0.0523973916602615
+Wearing apparel dressing and dyeing of fur,-3,0.0438941935572252
+Wearing apparel dressing and dyeing of fur,-2,0.1843644584237544
+Wearing apparel dressing and dyeing of fur,-1,0.0885286898167674
+Wearing apparel dressing and dyeing of fur,0,-0.1076609878979244
+Wearing apparel dressing and dyeing of fur,1,0.0184031693576409
+Wearing apparel dressing and dyeing of fur,2,0.0365239308008717
+Wearing apparel dressing and dyeing of fur,3,-0.0889311318506802
+Wood and products of wood and cork except furniture articles of straw and plating materials,-3,-0.2960737300880289
+Wood and products of wood and cork except furniture articles of straw and plating materials,-2,0.1653239804253834
+Wood and products of wood and cork except furniture articles of straw and plating materials,-1,0.1609303668126367
+Wood and products of wood and cork except furniture articles of straw and plating materials,0,0.0481464563905271
+Wood and products of wood and cork except furniture articles of straw and plating materials,1,0.0304398898480267
+Wood and products of wood and cork except furniture articles of straw and plating materials,2,-0.022742610022461
+Wood and products of wood and cork except furniture articles of straw and plating materials,3,0.017105263430075
